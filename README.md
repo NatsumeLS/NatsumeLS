@@ -1,2 +1,3 @@
 # Heya! I'm Natsu, Nice to meet you ヾ(＾∇＾)
-[![NatsumeLS's github stats](https://github-readme-stats-khaki-gamma.vercel.app/api?username=NatsumeLS&line_height=24&count_private=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats-khaki-gamma.vercel.app/api/top-langs/?username=NatsumeLS&layout=compact&langs_count=8&exclude_repo=bingode,github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+![NatsumeLS's GitHub stats](https://github-readme-stats.vercel.app/api?username=NatsumeLS&line_height=24&count_private=true&show_icons=true&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NatsumeLS&layout=compact&langs_count=8)
